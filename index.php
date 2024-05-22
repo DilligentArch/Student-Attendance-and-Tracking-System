@@ -434,7 +434,50 @@
          </div>
         </div>
 </header>
-
+  
+<!-- Footer Section -->
+<Footer class="mt-10 bg-[#030712]">
+      
+      <div class="container">
+        <div class="p-10">
+          <h1 class="text-white text-center lg:ml-[370px]">Attendance Management System</h1>
+          <div class="col-md-4 lg:ml-[750px] leading-10 text-white">
+            <h5 class="text-white ml-[130px]">Contact Us</h5>
+            <p class="ml-[60px]">Email: shafichy1400@gmail.com</p>
+          
+          
+          </div>
+          <div class="col-md-4 text-center  text-white lg:ml-[330px] mt-10">
+            <h5 class="lg:ml-[50px]">Quick Links</h5>
+            <ul class="flex gap-6 ml-5 lg:ml-[450px] mt-5">
+              <li><a href="/attendanceapp/index.php">Home</a></li>
+              <li><a href="/attendanceapp/about.php">About Us</a></li>
+              <li><a href="/attendanceapp/login.php">Login</a></li>
+              <li><a href="/attendanceapp/register.php">Register</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4 text-center lg:ml-[300px] mt-8 text-white">
+            <h5 class=" lg:ml-[90px]">Connect With Us</h5>
+            <ul class="social-media flex ml-[100px] lg:ml-[570px] gap-8 mt-4">
+              <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+            </ul>
+          </div>
+        </div>
+        <hr class="ml-4 lg:ml-[500px] w-[350px] lg:w-[900px]">
+        <div class="row p-8">
+          <div class="col-md-6 text-white text-center  lg:ml-[400px]">
+            <p>&copy; 2024 AttendEase. All Rights Reserved.</p>
+          </div>
+          <div class="col-md-6 text-white text-center lg:ml-[400px] mt-3">
+            <p>Terms of Service | Privacy Policy</p>
+          </div>
+        </div>
+      </div>
+ 
+    
+  </Footer>
 
 	
 
