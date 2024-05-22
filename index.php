@@ -65,6 +65,7 @@
     </Navbar>
   
 <header class="container mx-auto">
+<h1 class="text-[#131313]  lg:text-[50px] m-10 font-bold text-center ">Welcome to the <span class="text-[#023e8a]">Metropolitan</span> University <br> Attendance Management System</h1>
 <marquee class="text-2xl text-center text-[#d90429]">Our Attendance Management System is designed to streamline the process of recording and managing student attendance. By leveraging technology,  <br> <span class="text-[#5c677d]"> we aim to reduce the administrative burden on educators and provide real-time, reliable attendance data.</span></marquee>
 
 <!-- Banner Section -->
