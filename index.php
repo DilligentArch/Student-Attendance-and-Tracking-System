@@ -246,6 +246,162 @@
         </div>
 	
 
+        <div class="mt-20 flex flex-col lg:flex-row gap-20 ml-[50px] lg:ml-[200px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Jakaria Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-14">Abu Jafar Md Jakaria</p>
+              <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+           
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Mayami Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-5">Mayami Das Purkayastha Purba</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img  src="Image/Bushra Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-12"> Bushra Azmat Hussain</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+        </div>
+	
+
+        <div class="mt-20 flex flex-col lg:flex-row  gap-20 ml-[50px] lg:ml-[200px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Mostafiz Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10"> H M Mostafizur Rahman</p>
+              <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+           
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Ruma Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-20">  Ruma Das</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img  src="Image/Sakib Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10">    Md. Fahmidur Rahman Sakib</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+        </div>
+	
+
+        <div class="mt-20 flex flex-col lg:flex-row  gap-20 ml-[50px] lg:ml-[200px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Mumu Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10">Tanjina Ahmed Mumu</p>
+              <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+           
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img src="Image/Muzammil Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10">  Muhammad Muzammil</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img  src="Image/Moshiur Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-14">  Moshiur Ahmed</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+        </div>
+	
+
+        <div class="mt-20 flex flex-col lg:flex-row  gap-20 ml-[50px] lg:ml-[200px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img class="w-[120px]" src="Image/Rima Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10">Samia Rahman Rima</p>
+              <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+           
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img class="w-[120px]" src="Image/Ruhul Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-[70px]"> Ruhul Amin</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img  src="Image/Nazrul sir1.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-14"> Nazrul Islam</p>
+               <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+          </div>
+        </div>
+	
+
+        <div class="mt-20 flex flex-col lg:flex-row  gap-20 ml-[50px] lg:ml-[200px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img class="w-[120px]" src="Image/Tajbin Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-[70px]">   Tajbin Jahan</p>
+              <p class="ml-20 mb-5">Lecturer</p>
+            </div>
+           
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img class="w-[120px]" src="Image/Naeem Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-10"> Golam Mostofa Naeem</p>
+               <p class="ml-16 mb-5">Teaching Assistant</p>
+            </div>
+          </div>
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5 hover:border-2 border-black">
+            <figure><img class="w-[120px]" src="Image/Shakib Sir.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-14">Abdul Wadud Shakib</p>
+               <p class="ml-16 mb-5">Teaching Assistant</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-10 ml-[50px] lg:ml-[580px] hover:border-2 border-black w-[310px]">
+          <div class="card card-compact w-[300px] bg-slate-100 shadow-xl p-5">
+            <figure><img class="w-[120px]" src="Image/Nowshin Mam.jpg" alt="Shoes" /></figure>
+            <div class="card-body">
+              
+              <p class="ml-14">Nowshin Sharmin</p>
+               <p class="ml-14 mb-5">Teaching Assistant</p>
+            </div>
+          </div>
+        </div>
+	
+
 
 	
 
