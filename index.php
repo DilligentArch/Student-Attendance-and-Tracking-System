@@ -403,6 +403,36 @@
           </div>
         </div>
 	
+        <!-- Success Story -->
+      <div>
+        <h1 class="text-center mt-10 text-2xl bg-[#59C6D2] w-[200px] mx-auto py-5 px-5 rounded-xl text-black font-semibold">Success Story</h1>
+        <div class="flex flex-col lg:flex-row gap-20 mt-10">
+         <div class="p-5 bg-base-200 w-[250px] rounded-xl ml-[100px] lg:ml-0">
+          <img src="./Image/Adnan vai1.jpg" alt="">
+          <h1 class="mt-4 font-bold">Nafiul Adnan Chowdhury</h1>
+          <p class="text-[#131313CC]">Site Reliability Engineer <i class="fa-brands fa-google "></i></p>
+         </div>
+         <div class="p-5 bg-base-200 w-[250px] rounded-xl ml-[100px] lg:ml-0">
+          <img src="./Image/Emrul Vai.jpg" alt="">
+          <h1 class="mt-4 font-bold">Emrul Chowdhury</h1>
+          <p class="text-[#131313CC]">Software Development Engineer <i class="fa-brands fa-amazon "></i></p>
+         </div>
+         <div class="p-5 bg-base-200 w-[250px] rounded-xl ml-[100px] lg:ml-0">
+          <img src="./Image/Rafat Vai.jpg" alt="">
+          <h1 class="mt-4 font-bold">Majharul Islam Rafat</h1>
+          <p class="text-[#131313CC]">Software Engineer <img class="w-[50px] ml-[50px]" src="https://cdn6.agoda.net/images/kite-js/logo/agoda/color-default.svg" alt="">	</p>
+         </div>
+         <div class="p-5 bg-base-200 w-[250px] rounded-xl ml-[100px] lg:ml-0">
+          <img src="./Image/Aman Vai2.jpg" alt="">
+          <h1 class="mt-4 font-bold">Amanur Rahman</h1>
+          <p class="text-[#131313CC]">Software Engineer  <i class="fa-brands fa-google "></i></p>
+         </div>
+         <div class="p-5 bg-base-200 w-[250px] rounded-xl ml-[100px] lg:ml-0">
+          <img src="./Image/Shuvo Vai.jpg" alt="">
+          <h1 class="mt-4 font-bold">Foysol Ahmed Shuvo</h1>
+          <p class="text-[#131313CC]">Software Engineer <img class="w-[50px] ml-[50px]" src="https://cdn6.agoda.net/images/kite-js/logo/agoda/color-default.svg" alt="">	</p>
+         </div>
+        </div>
 </header>
 
 
