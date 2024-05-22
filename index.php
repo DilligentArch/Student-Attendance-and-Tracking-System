@@ -442,9 +442,48 @@
       <h1 class="mt-8 text-center text-2xl bg-[#2D3047] text-white w-[200px] mx-auto p-5 rounded-xl">Location</h1>
       <iframe class= "w-[350px] lg:w-[500px] rounded-xl h-[400px] mt-10 ml-[20px] lg:ml-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.056969083279!2d91.97095140044283!3d24.930129111533226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750552bc71c899d%3A0x804e438bcc32b390!2sMetropolitan%20University%20Sylhet!5e0!3m2!1sen!2sbd!4v1716224415134!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-         
-        
-
+      
+<!-- QnA -->
+    <div class="">
+          <h1 class="text-center mt-10 text-2xl text-[#030712] bg-[#1DD100] w-[100px] mx-auto py-[21px] px-[25px] rounded-xl">QNA</h1>
+          <div class="collapse collapse-plus w-[350px] lg:w-[700px] mt-8 mx-auto bg-base-200">
+            <input type="radio" name="my-accordion-3" checked="checked" /> 
+            <div class="collapse-title text-xl font-medium">
+              How far is it from Sylhet to Metropolitan University?
+            </div>
+            <div class="collapse-content"> 
+              <p>It is 1457 feet from Sylhet to Metropolitan University. It is approximately 1854 feet to drive.</p>
+            </div>
+          </div>
+          <div class="collapse collapse-plus w-[350px] lg:w-[700px] mx-auto bg-base-200">
+            <input type="radio" name="my-accordion-3" /> 
+            <div class="collapse-title text-xl font-medium">
+              How many degress are there at Metropolitan University?
+            </div>
+            <div class="collapse-content"> 
+              <p>7</p>
+              <p>CSE, SE, EEE, BBA, ECO, ENG, LAW</p>
+            </div>
+          </div>
+          <div class="collapse collapse-plus w-[350px] lg:w-[700px] mx-auto bg-base-200">
+            <input type="radio" name="my-accordion-3" /> 
+            <div class="collapse-title text-xl font-medium">
+              Where is the loaction of Metropolitan University?
+            </div>
+            <div class="collapse-content"> 
+              <p>Bateshwar, Sylhet-3103</p>
+            </div>
+          </div>
+          <div class="collapse collapse-plus w-[350px] lg:w-[700px] mx-auto bg-base-200">
+            <input type="radio" name="my-accordion-3" /> 
+            <div class="collapse-title text-xl font-medium">
+              When was the Metropolitan University established?
+            </div>
+            <div class="collapse-content"> 
+              <p>3 May 2003; 21 years ago</p>
+            </div>
+          </div>
+        </div>
       </div>
    </div>
 
