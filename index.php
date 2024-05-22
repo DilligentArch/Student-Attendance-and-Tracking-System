@@ -437,7 +437,7 @@
         </div>
 
         <!-- Location & QnA Section: -->
-        <div class="flex flex-col lg:flex-row  mt-20 gap-20 lg:ml-[100px]">
+        <div class="flex flex-col lg:flex-row  mt-20 gap-20 lg:ml-[105px]">
     <div>
       <h1 class="mt-8 text-center text-2xl bg-[#2D3047] text-white w-[200px] mx-auto p-5 rounded-xl">Location</h1>
       <iframe class= "w-[350px] lg:w-[500px] rounded-xl h-[400px] mt-10 ml-[20px] lg:ml-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.056969083279!2d91.97095140044283!3d24.930129111533226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750552bc71c899d%3A0x804e438bcc32b390!2sMetropolitan%20University%20Sylhet!5e0!3m2!1sen!2sbd!4v1716224415134!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
